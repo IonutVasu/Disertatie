@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Sportify</string>
+=======
+    <string name="app_name">Aplicatie Sportiva</string>
+>>>>>>> 9532db380ce4f8ea2e6dda1341351f4f1bbd9e65
+</resources>
